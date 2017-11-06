@@ -1,0 +1,22 @@
+{
+  "name": "Projeto-Web",
+  "homepage": "https://github.com/TiagoSaldanha/Projeto-Web",
+  "authors": [
+    "TiagoSaldanha <tiagosaldanha2016@outlook.com>"
+  ],
+  "description": "Projeto Web com NodeJs, NPM, Bower, Gulp e Sass",
+  "main": "index.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
