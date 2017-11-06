@@ -1,0 +1,19 @@
+{
+  "name": "projeto-web",
+  "version": "1.0.0",
+  "description": "Projeto Web utilizando NodeJs, NPM, Bower, Gulp e Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TiagoSaldanha/Projeto-Web.git"
+  },
+  "author": "TiagoSaldanha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TiagoSaldanha/Projeto-Web/issues"
+  },
+  "homepage": "https://github.com/TiagoSaldanha/Projeto-Web#readme"
+}
